@@ -430,3 +430,4 @@
 /Users/joyce/Desktop/4870/Labs/CommunityApp/obj/Debug/net9.0/CommunityApp.pdb
 /Users/joyce/Desktop/4870/Labs/CommunityApp/obj/Debug/net9.0/CommunityApp.genruntimeconfig.cache
 /Users/joyce/Desktop/4870/Labs/CommunityApp/obj/Debug/net9.0/ref/CommunityApp.dll
+/Users/joyce/Desktop/4870/Labs/CommunityApp/obj/Debug/net9.0/CommunityApp.sourcelink.json

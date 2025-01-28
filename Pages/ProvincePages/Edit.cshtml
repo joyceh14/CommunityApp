@@ -13,10 +13,10 @@
     <div class="col-md-4">
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="Province.ProvinceCode" />
+            @* <input type="hidden" asp-for="Province.ProvinceCode" /> *@
             <div class="form-group">
                 <label asp-for="Province.ProvinceCode" class="control-label"></label>
-                <input asp-for="Province.ProvinceCode" class="form-control" />
+                <input asp-for="Province.ProvinceCode" class="form-control"/>
                 <span asp-validation-for="Province.ProvinceCode" class="text-danger"></span>
             </div>
 
